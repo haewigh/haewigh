@@ -1,4 +1,4 @@
-Hi and welcome! :wave:(#people--body)  
+Hi and welcome! :wave:  
 
 I'm Ayodele Okunade, a frontend developer
 
