@@ -1,4 +1,4 @@
-Hi and welcome! :wave:  | [top](#people--body) | :wave: | `:wave:` |  
+Hi and welcome! :wave:(#people--body)  
 
 I'm Ayodele Okunade, a frontend developer
 
